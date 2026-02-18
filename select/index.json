@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "カントリー・ロード(耳をすませば)",
+  "base_artist": "本名陽子",
+  "createdAt": "2026-02-18T13:13:29.977700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カントリー・ロード(耳をすませば)",
+      "artist": "Kyoto Piano Ensemble",
+      "has_synced": false,
+      "path": "select/01_カントリー・ロード(耳をすませば)_Kyoto_Piano_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カントリー・ロード(耳をすませば)",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/02_カントリー・ロード(耳をすませば)_本名陽子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カントリー?ロード(耳をすませば)",
+      "artist": "本名陽子",
+      "has_synced": true,
+      "path": "select/03_カントリー_ロード(耳をすませば)_本名陽子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カントリー・ロード (耳をすませば)",
+      "artist": "本名陽子",
+      "has_synced": false,
+      "path": "select/pl_01_カントリー・ロード_(耳をすませば)_本名陽子.txt"
+    }
+  ]
+}
